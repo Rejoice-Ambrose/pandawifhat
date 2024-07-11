@@ -2,7 +2,7 @@
         body {
             margin: 0;
             padding: 0;
-            font-family: Jokerman, sans-serif;
+            font-family: serif, sans-serif;
         }
 
         .header {
@@ -21,6 +21,7 @@
             font-size: 15px;
             color: #fff;
             font-weight: 800;
+            font-family: Jokerman, sans-serif;
         }
 
         .logo img {
@@ -59,7 +60,7 @@
         }
 
         .hero-title {
-            font-family: Jokerman, sans-serif;
+           font-family: Jokerman, sans-serif;
             font-size: 150px;
             margin-bottom: 50px;
         }
