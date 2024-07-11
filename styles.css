@@ -205,6 +205,10 @@
                 align-items: flex-start;
                 gap: 10px;
             }
+                 .nav.show {
+                 display: flex;
+                 }
+
 
             .hamburger {
                 display: flex;
