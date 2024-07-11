@@ -8,7 +8,7 @@
         .header {
             background-color: #000;
             display: flex;
-            padding: 15px 20px;
+            padding: 10px 15px;
             justify-content: space-between;
             align-items: center;
             flex-wrap: wrap;
@@ -18,14 +18,14 @@
             display: flex;
             align-items: center;
             gap: 10px;
-            font-size: 27px;
+            font-size: 15px;
             color: #fff;
             font-weight: 800;
         }
 
         .logo img {
-            width: 114px;
-            height: 114px;
+            width: 100px;
+            height: 100px;
         }
 
         .nav {
@@ -181,6 +181,7 @@
             cursor: pointer;
             gap: 4px;
         }
+        
 
         .hamburger div {
             width: 30px;
@@ -214,6 +215,7 @@
         }
 
         @media (max-width: 768px) {
+
             .hero-title {
                 font-size: 30px;
             }
